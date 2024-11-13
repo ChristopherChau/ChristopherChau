@@ -1,10 +1,10 @@
 ## Hi there 👋, Welcome to my Github
 
-# I've been...
+## I've been...
 * A Software Engineer Intern at Southern California Edison, where I developed full-stack automation solutions to streamline team operations on a web platform. I also created Python scripts to enhance security protocols, ensuring SCE remained compliant with NERC CIP standards.
 
 
-# Projects 🧰
+## Projects 🧰
 *Links to repositories will be added soon—currently refining code*
 * name-tbd - A social media web application built with Next.js, React, Supabase, and AWS S3. It enables users to interact with other profiles, posts, comments, and likes, fostering a connected user experience.
 * InterviewIQ -  An interview preparation app powered by OpenAI’s API that simulates interview scenarios. Users receive graded responses and feedback stored in a database for future review.
